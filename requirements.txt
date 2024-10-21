@@ -1,0 +1,11 @@
+click==8.1.7
+passlib==1.7.4
+PyJWT==2.9.0
+pytest==8.3.3
+sentry_sdk==2.14.0
+SQLAlchemy==2.0.35
+sentry-sdk~=2.14.0
+pytz~=2024.2
+pytest-cov==5.0.0
+bcrypt==4.2.0
+psycopg2==2.9.10
