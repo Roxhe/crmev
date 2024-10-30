@@ -34,7 +34,7 @@
 5. **Configurer le chemin PYTHONPATH pour prévenir des problèmes de path**
 
    ```bash
-   set PYTHONPATH=E:\PyWorks\CRMEV
+   set PYTHONPATH=PATH_TO\CRMEV
    ```
 
 6. **Initialiser la base de données**
